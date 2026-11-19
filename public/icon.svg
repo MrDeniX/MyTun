@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#0A0A0A"/>
+  <rect x="24" y="24" width="464" height="464" rx="92" fill="#141414" stroke="#262626" stroke-width="6"/>
+  <!-- Scale ticks -->
+  <line x1="116" y1="220" x2="116" y2="260" stroke="#52525B" stroke-width="8" stroke-linecap="round"/>
+  <line x1="186" y1="210" x2="186" y2="260" stroke="#52525B" stroke-width="8" stroke-linecap="round"/>
+  <line x1="256" y1="156" x2="256" y2="268" stroke="#10B981" stroke-width="14" stroke-linecap="round"/>
+  <line x1="326" y1="210" x2="326" y2="260" stroke="#52525B" stroke-width="8" stroke-linecap="round"/>
+  <line x1="396" y1="220" x2="396" y2="260" stroke="#52525B" stroke-width="8" stroke-linecap="round"/>
+  <!-- Indicator dot -->
+  <circle cx="256" cy="124" r="14" fill="#10B981"/>
+  <!-- Minimalist 440 Hz bar -->
+  <rect x="136" y="336" width="240" height="48" rx="12" fill="#0A0A0A" stroke="#262626" stroke-width="4"/>
+  <circle cx="172" cy="360" r="8" fill="#10B981"/>
+  <line x1="204" y1="360" x2="344" y2="360" stroke="#FAFAFA" stroke-width="10" stroke-linecap="round"/>
+</svg>

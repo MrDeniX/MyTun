@@ -1,0 +1,6 @@
+{
+  "name": "TONE.01 — Гитарный тюнер и метроном",
+  "description": "Минималистичный высокоточный гитарный тюнер с алгоритмом YIN и кварцевый метроном (PWA) для использования одной рукой.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
